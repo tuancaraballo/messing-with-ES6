@@ -1,0 +1,11 @@
+To run the debugger:
+
+node-debug filename.js
+
+See debugger example and run above command.
+
+
+2- Spread operators and rest:
+   
+    using ...
+ 
